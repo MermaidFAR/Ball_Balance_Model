@@ -1,0 +1,13 @@
+# SolidWorks and CAD temporary files
+~$*
+*.bak
+*.tmp
+*.log
+*.autosave
+
+# Editors and operating systems
+/.vscode/
+/.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
